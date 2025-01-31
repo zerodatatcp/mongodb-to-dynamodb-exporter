@@ -1,4 +1,4 @@
-# 🔄 MongoDB to DynamoDB Exporter
+# 🔄 MongoDB to DynamoDB Exporter v1.0
 
 This Node.js script exports all databases and collections from a MongoDB instance to JSON files formatted for DynamoDB import.
 
