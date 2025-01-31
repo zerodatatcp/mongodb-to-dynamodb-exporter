@@ -50,8 +50,6 @@ This Node.js script exports all databases and collections from a MongoDB instanc
 
 The script generates JSON files in the 'output' folder. Each file is named in the format `databaseName_collectionName.json` and contains one JSON object per line, formatted for DynamoDB import.
 
-Aquí tienes la línea adicional para incluir en la sección de Notas:
-
 ## 📝 Notes
 
 - 🚫 The script skips the '_id' field from MongoDB documents.
